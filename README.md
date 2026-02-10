@@ -1,2 +1,3 @@
 # TareaExtra
 Puntos extra
+Elegí la Mozilla Public License 2.0 (MPL 2.0) porque es una licencia de código abierto que permite usar, modificar y distribuir un proyecto, incluso con fines comerciales, manteniendo la obligación de compartir únicamente los archivos que hayan sido modificados bajo la misma licencia. Se elige para un proyecto porque ofrece un equilibrio entre apertura y protección: fomenta la colaboración y el uso libre del código, pero evita que las mejoras realizadas sobre el núcleo del proyecto se vuelvan privadas, lo que la hace ideal para proyectos colaborativos, académicos o librerías que pueden integrarse en soluciones más grandes sin perder la autoría ni el carácter abierto del trabajo original. Todavía no entiendo mucho pero parecio interesante. 
