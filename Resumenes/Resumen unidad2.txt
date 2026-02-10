@@ -1,0 +1,7 @@
+Unidad 2: Conceptos Básicos de Programación
+
+En esta unidad se introducen los conceptos esenciales para comenzar a programar, como las variables y la forma en que se almacena y manipula la información. Estos elementos permiten que un programa guarde datos, los modifique y los utilice para realizar distintas operaciones según sea necesario.
+
+Los tipos de datos y los operadores definen qué clase de información puede manejar un programa y cómo se puede trabajar con ella. Los tipos de datos determinan si un valor es numérico, texto o lógico, mientras que los operadores permiten realizar cálculos, comparaciones y evaluaciones que influyen en el comportamiento del programa.
+
+Las estructuras de control, tanto condicionales como de bucles, permiten que un programa tome decisiones y repita acciones de manera automática. Gracias a ellas, el flujo del programa puede adaptarse a diferentes situaciones, haciendo que las aplicaciones sean dinámicas y funcionales.

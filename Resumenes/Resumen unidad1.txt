@@ -1,0 +1,7 @@
+Unidad 1: Fundamentos de la Computación y Programación
+
+El sistema binario es la base del funcionamiento de las computadoras, ya que todo lo que procesan se representa mediante combinaciones de 0 y 1. A través del sistema binario se codifica la información como números, texto, imágenes y sonidos, permitiendo que el hardware interprete y ejecute instrucciones de manera precisa.
+
+La lógica y los algoritmos son fundamentales para resolver problemas de forma ordenada y eficiente. La lógica permite analizar situaciones y tomar decisiones correctas, mientras que un algoritmo es una secuencia de pasos claros y definidos para alcanzar un objetivo específico, ya sea en programación o en situaciones cotidianas.
+
+La programación consiste en traducir los algoritmos a un lenguaje que la computadora pueda entender. Para ello se utilizan editores de texto y entornos de desarrollo, que facilitan la escritura, organización y ejecución del código. Estos conceptos forman la base para comprender cómo se crean y funcionan los programas informáticos.

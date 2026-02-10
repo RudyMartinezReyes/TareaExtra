@@ -1,0 +1,7 @@
+Unidad 3: Control de Versiones y Trabajo Colaborativo
+
+El control de versiones es una herramienta clave para gestionar los cambios en un proyecto a lo largo del tiempo. Permite llevar un historial de modificaciones, recuperar versiones anteriores y trabajar de forma ordenada, especialmente cuando participan varias personas en un mismo proyecto.
+
+Git es un sistema de control de versiones que facilita el seguimiento de cambios en el código y el manejo de distintas versiones de un proyecto. A través de instrucciones básicas, Git permite guardar avances, comparar cambios y mantener un control claro del desarrollo del software.
+
+GitHub es una plataforma que utiliza Git para alojar repositorios y facilitar el trabajo colaborativo. Permite compartir proyectos, colaborar con otros desarrolladores y mantener el código organizado en línea, siendo una herramienta ampliamente utilizada en entornos académicos y profesionales.
